@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "b31ea5a34c57357b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c3fd5ffb0c76bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680e6a193a3acaae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b6d3926b8d03b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f53369c1999dc6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9295ffb3cb406c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef5c243575d07aba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07d7189b17e404fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "719581ea955b505a",
+    "type": "split",
+    "children": [
+      {
+        "id": "746baddbc36e37e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c82b88370ae16c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f250b2c52687dc3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "88b8eabd956a929c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b51059a9d50030a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "680e6a193a3acaae",
+  "lastOpenFiles": [
+    "test_file.md",
+    "Work.md",
+    "Work Projects.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Troubleshooting Log.md",
+    "Tools - systemctl.md",
+    "Templates.md",
+    "Technical Documentation.md",
+    "Tasks.md",
+    "systemd.md",
+    "systemctl.md",
+    "systemctl poweroff.md",
+    "stress-ng.md",
+    "smartmontools.md",
+    "Planning.md",
+    "nvidia-smi.md",
+    "NVIDIA Driver Update Script.md",
+    "nohup.md",
+    "mprime.md",
+    "Memtest86+.md",
+    "mdadm.md",
+    "Maintaining NVIDIA drivers in Ubuntu.md",
+    "Maintaining NVIDIA drivers in Rocky.md",
+    "lspci.md",
+    "lsblk.md",
+    "lm-sensors.md",
+    "ipmitool.md",
+    "DreamVision App",
+    "Work.canvas",
+    "Work Notes"
+  ]
+}
